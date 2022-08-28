@@ -1,1 +1,2 @@
-
+REACT_APP_CHAIN_1_CUSTOM_TYPES_URL=https://raw.githubusercontent.com/paritytech/parity-bridges-common/master/deployments/types-rialto.json
+REACT_APP_CHAIN_1_SUBSTRATE_PROVIDER=wss://wss.rialto.brucke.link
